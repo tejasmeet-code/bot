@@ -1,0 +1,8 @@
+{
+  "name": "Relosta Tester",
+  "description": "Relosta Tester is the official staging environment for the Relosta Bot ecosystem. It is used to test next-generation lossless audio pipelines, advanced security modules, and community management features before they are deployed to the production network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
